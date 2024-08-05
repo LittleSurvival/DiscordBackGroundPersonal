@@ -17,7 +17,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: #C796CF;
-  --background-image: url('https://github.com/LittleSurvival/DiscordBackGroundPersonally/blob/main/2023-12-29%2023-19-40_4_3.mp4');
+  --background-image: url('file:///D:/SteamLibrary/steamapps/workshop/content/431960/3126391787/wallpaper5.gif');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -84,5 +84,7 @@
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
+
+
 
 /* Any custom CSS below here */
